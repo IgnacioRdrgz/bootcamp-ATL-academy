@@ -1,7 +1,68 @@
-{
-  "category": "Cultura",
-  "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
-  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
-  "answer": 0,
-  "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
-}
+[
+  {
+    "category": "Comidas",
+    "question": "¿Cuál es el ingrediente principal de la salsa pesto?",
+    "options": [
+      "Albahaca",
+      "Pimenton",
+      "Cebolla"
+    ],
+    "answer": 0,
+    "explanation": "La salsa pesto es una salsa italiana que se utiliza comúnmente en la cocina mediterránea. Su ingrediente principal es la albahaca fresca, que se mezcla con ajo, piñones, queso parmesano, aceite de oliva y sal."
+  },
+  {
+    "category": "Internet",
+    "question": "¿Qué significa la sigla HTTP en las direcciones de los sitios web?",
+    "options": [
+      "Significa Protocolo de Transferencia de Hipertexto (Hypertext Transfer Protocol, en inglés).",
+      "Significa Hypertext Trick Patron",
+      "Significa Hipertest Task Pass"
+    ],
+    "answer": 0,
+    "explanation": "El Protocolo de Transferencia de Hipertexto (HTTP) es un protocolo de comunicación utilizado para la transferencia de información en la World Wide Web. Es la base sobre la cual se construye la estructura de intercambio de datos en la web."
+  },
+  {
+    "category": "Geografía Argentina",
+    "question": "¿Cuál es el punto más alto de Argentina?",
+    "options": [
+      " El punto más alto de Argentina es el Aconcagua.",
+      " El punto más alto de Argentina es la llanura pampeana.",
+      " El punto más alto de Argentina es el cerro Uritorco."
+    ],
+    "answer": 0,
+    "explanation": "El Aconcagua es una montaña ubicada en la provincia de Mendoza, en la región de Cuyo, en Argentina. Con una altitud de 6,960.8 metros sobre el nivel del mar, es la montaña más alta de América y del hemisferio sur."
+  },
+  {
+    "category": "Cine",
+    "question": "¿Quién dirigió la película Pulp Fiction?",
+    "options": [
+      "Fue dirigida por Quentin Tarantino.",
+      "Fue dirigida por Francis F Copola.",
+      "Fue dirigida por Eminem."
+    ],
+    "answer": 0,
+    "explanation": "Quentin Tarantino es un reconocido director de cine estadounidense. Pulp Fiction es una película icónica de su filmografía, estrenada en 1994, que se caracteriza por su narrativa no lineal y su estilo distintivo."
+  },
+  {
+    "category": "Ciencias",
+    "question": "¿Cuál es el elemento químico más abundante en el universo?",
+    "options": [
+      "El elemento químico más abundante en el universo es el hidrógeno.",
+      "El elemento químico más abundante en el universo es el Oxigeno.",
+      "El elemento químico más abundante en el universo es el Boro."
+    ],
+    "answer": 0,
+    "explanation": "El hidrógeno es el elemento químico más simple y ligero en la tabla periódica. Es el componente principal de las estrellas y la materia visible del universo, representando aproximadamente el 75% de su masa."
+  },
+  {
+    "category": "Historia",
+    "question": "¿En qué año se llevó a cabo la Revolución Francesa?",
+    "options": [
+      "La Revolución Francesa se llevó a cabo en el año 1789.",
+      "La Revolución Francesa se llevó a cabo en el año 2022.",
+      "La Revolución Francesa se llevó a cabo en el año 2014."
+    ],
+    "answer": 0,
+    "explanation": "La Revolución Francesa fue un período de cambio político y social importante en la historia de Francia. Comenzó con la toma de la Bastilla el 14 de julio de 1789 y se extendió hasta finales de la década de 1790, teniendo un impacto significativo en Europa y el resto del mundo."
+  }
+]
