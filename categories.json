@@ -1,15 +1,15 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Comidas",
+    "description": "Preguntas relacionadas con comidas, desde ingredientes hasta platos populares."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Internet",
+    "description": "Preguntas relacionadas con el internet y todo lo relacionado."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Geografía Argentina",
+    "description": "Preguntas relacionadas con geografía en territorio argentino."
   },
   {
     "category": "Cine",
@@ -20,7 +20,7 @@
     "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
   },
   {
-    "category": "Ciencia",
+    "category": "Ciencias",
     "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
   }
 ]
