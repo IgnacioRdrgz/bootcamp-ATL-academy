@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Comidas",
+    "description": "Preguntas relacionadas con comidas, desde ingredientes hasta platos populares."
+  },
+  {
+    "category": "Internet",
+    "description": "Preguntas relacionadas con el internet y todo lo relacionado."
+  },
+  {
+    "category": "Geografía Argentina",
+    "description": "Preguntas relacionadas con geografía en territorio argentino."
+  },
+  {
+    "category": "Cine",
+    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+  },
+  {
+    "category": "Historia",
+    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+  },
+  {
+    "category": "Ciencias",
+    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+  }
+]
