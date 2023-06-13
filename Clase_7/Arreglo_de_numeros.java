@@ -47,5 +47,6 @@ public class Arreglo_de_numeros {
         System.out.println("El promedio de la suma de los numeros del arreglo es " + suma/numeros.length);
 
 
+
     }}
 
